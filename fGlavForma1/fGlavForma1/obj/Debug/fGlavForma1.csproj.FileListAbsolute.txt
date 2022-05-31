@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Products.resources
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Properties.Resources.resources
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Employees.resources
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\bin\Debug\fGlavForma1.exe.config
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\bin\Debug\fGlavForma1.exe
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\bin\Debug\fGlavForma1.pdb
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.exe
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.pdb
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Form3.resources
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Form4.resources
+C:\Users\user\source\repos\fGlavForma1\fGlavForma1\obj\Debug\fGlavForma1.Form5.resources
